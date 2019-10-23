@@ -20,6 +20,7 @@ public class Test {
 
 
         staticClass sc=new staticClass();
+        //add comments
         sc.simplefunction();
     }
 }
